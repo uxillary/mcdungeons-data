@@ -62,7 +62,7 @@ Thank you for helping us build the best Minecraft Dungeons gear database!
 
 ## ✅ Validation
 Please ensure your JSON is valid! You can use tools like https://jsonlint.com.
- ~ workflow will validate before PRs
+~ workflow will validate before PRs
 
 ## Structure
 ```
@@ -79,6 +79,6 @@ optimancer-data/
 │
 ├── README.md
 ├── CONTRIBUTING.md
-└── LICENSE (MIT recommended)
+└── LICENSE
 ```
 
