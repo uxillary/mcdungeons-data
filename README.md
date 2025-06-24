@@ -9,7 +9,7 @@ We aim to build an open, community-driven database of:
 - Meta trends
 
 ## 🔥 Contributing
-Help us expand and verify the data!
+Help us expand and verify the data! More detail [https://github/uxillary/mcdungeons-data/contributing](https://github.com/uxillary/mcdungeons-data/blob/main/CONTRIBUTING.md)
 
 ## 📂 Repository Structure
 - `data/items.json` – List of all weapons and armor.
