@@ -9,7 +9,7 @@ We aim to build an open, community-driven database of:
 - Meta trends
 
 ## 🔥 Contributing
-Help us expand and verify the data! Check out the [Contributing Guide](CONTRIBUTING.md) to get started.
+Help us expand and verify the data!
 
 ## 📂 Repository Structure
 - `data/items.json` – List of all weapons and armor.
