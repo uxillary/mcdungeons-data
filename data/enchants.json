@@ -1,0 +1,10 @@
+{
+  "id": "radiance",
+  "name": "Radiance",
+  "description": "Has a chance to create a healing circle on hit.",
+  "type": "healing",
+  "conflictsWith": [],
+  "synergyWith": ["leeching", "critical_hit"],
+  "tags": ["melee", "survivability"],
+  "rarity": "rare",
+}
