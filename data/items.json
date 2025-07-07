@@ -1,0 +1,7 @@
+{
+  "name": "Katana",
+  "type": "Melee",
+  "possibleEnchants": ["Thundering", "Busy Bee", "Sharpness"],
+  "metaRating": 7.5,
+  "synergyNotes": "Works well with speed and AoE builds."
+}
