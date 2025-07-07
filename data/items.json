@@ -1,7 +1,23 @@
 {
+  "id": "katana",
   "name": "Katana",
-  "type": "Melee",
-  "possibleEnchants": ["Thundering", "Busy Bee", "Sharpness"],
+  "type": "melee",
+  "subtype": "sword",
+  "unique": false,
+  "gildable": true,
+  "basePower": 145,
+  "rarity": "common",
+  "dlc": null,
+  "possibleEnchants": ["thundering", "busy_bee", "sharpness"],
   "metaRating": 7.5,
-  "synergyNotes": "Works well with speed and AoE builds."
+  "tags": ["speed", "aoe", "damage"],
+  "synergyNotes": "Works well with speed and AoE builds.",
+  "recommendedBuilds": ["glass_cannon_speed", "crowd_control"],
+  "image": "https://yourcdn.com/images/items/katana.png",
+  "tooltip": "A swift blade that excels at cutting through mobs with speed.",
+  "addedInVersion": "1.0",
+  "notes": "Can be found in Soggy Cave and Desert Temple.",
+  "canBeGilded": true,
+  "canBeAncient": true,
+  "availableInTower": true
 }
